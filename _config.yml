@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 
-url: "https://manishakandel.github.io"
+url: ""
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -73,8 +73,8 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
 #  rss: true
-  email: "yumakandel01@gmail.com"
-   facebook: euma.kandel
+#  email: "yumakandel01@gmail.com"
+#   facebook: euma.kandel
 #  github: melyanna
 #   twitter: OoMelyannaoO
 #  reddit: yourname
@@ -83,7 +83,7 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-   instagram: yumakandel
+#   instagram: yumakandel
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
